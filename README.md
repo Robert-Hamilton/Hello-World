@@ -1,3 +1,3 @@
 # Hello-World
 Tutorial exercise.
-Still working my through this tutorial.
+Still working my way through this tutorial.
